@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "card-counter",
+  "compatibility_date": "2026-10-01",
+  "account_id": "24ac8a3c1a8f1df911fa958d54d945a6",
+  "assets": {
+    "directory": "dist",
+    "not_found_handling": "single-page-application"
+  }
+}
